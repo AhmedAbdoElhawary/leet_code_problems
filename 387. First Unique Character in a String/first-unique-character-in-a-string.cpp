@@ -12,8 +12,10 @@ public:
       }
     }
     int result=-1;
-        for (auto itr = m.begin(); itr != m.end(); ++itr)
-             result==-1?result=itr->second:(result<itr->second?result:result=itr->second);
+        for (auto itr = m.begin(); itr != m.end(); ++itr){
+            if(result==-1||result> itr->second)
+                result=itr->second;
+        }
     return result;
     }
 };
