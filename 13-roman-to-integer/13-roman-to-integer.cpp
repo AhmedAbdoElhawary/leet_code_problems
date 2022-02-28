@@ -12,10 +12,14 @@ public:
 
 int result=0;
     for(int i=0;i<s.size();i++){
-        if(i+1<s.size()&& map[s[i+1]]>map[s[i]]){
+      if(i+1<s.size()){
+        if(map[s[i+1]]>map[s[i]]){
           result+=map[s[i+1]]-map[s[i]];
           i++;
         }
+        else 
+          result+=map[s[i]];
+      }
       else
         result+=map[s[i]];
     }
