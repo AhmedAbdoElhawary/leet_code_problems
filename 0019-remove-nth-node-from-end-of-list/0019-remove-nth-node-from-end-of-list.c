@@ -29,7 +29,7 @@ struct ListNode* removeNthFromEnd(struct ListNode* head, int n){
     int v=rec(head,n,0);
     if(v == 5){
         struct ListNode* h=head;
-        head=head->next;
+        head=h->next;
         free(h);
     }
     return head;
