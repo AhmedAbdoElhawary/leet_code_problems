@@ -12,7 +12,7 @@ int rec(struct ListNode* head, int n,int size){
         return n;
     }
     int num=rec(head->next,n,size+1);
-    if(n==totalSize) return 5;
+    if(n==totalSize) return 1;
     
     --num;
     if(num==-1){
@@ -27,9 +27,9 @@ struct ListNode* removeNthFromEnd(struct ListNode* head, int n){
     if(head->next==NULL) return n==1?NULL:head;
 
     int v=rec(head,n,0);
-    if(v == 5){
+    if(v == 1){
         struct ListNode* h=head;
-        head=h->next;
+        head=head->next;
         free(h);
     }
     return head;
