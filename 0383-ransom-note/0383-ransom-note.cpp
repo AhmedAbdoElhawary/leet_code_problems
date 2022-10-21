@@ -8,11 +8,11 @@ public:
         }
         
         for(int i=0;i<ran.size();i++){
-            map[ran[i]]--;
+            int r=map[ran[i]]--;
+            if(r<=0) return false;
+
         }
-        for(auto m:map){
-            if(m.second<0) return false;
-        }
+
         return true;
     }
 };
