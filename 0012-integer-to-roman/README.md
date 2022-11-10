@@ -1,4 +1,7 @@
-<h2><a href="https://leetcode.com/problems/integer-to-roman/">12. Integer to Roman</a></h2><h3>Medium</h3><hr><div><p>Roman numerals are represented by seven different symbols:&nbsp;<code>I</code>, <code>V</code>, <code>X</code>, <code>L</code>, <code>C</code>, <code>D</code> and <code>M</code>.</p>
+<h2><a href="https://leetcode.com/problems/integer-to-roman/">12. Integer to Roman</a></h2><h2><a href="https://leetcode.com/submissions/detail/840279036/">Submission Detail</a></h2><p><h3>Medium</h3><hr><div><p>
+
+
+Roman numerals are represented by seven different symbols:&nbsp;<code>I</code>, <code>V</code>, <code>X</code>, <code>L</code>, <code>C</code>, <code>D</code> and <code>M</code>.</p>
 
 <pre><strong>Symbol</strong>       <strong>Value</strong>
 I             1
