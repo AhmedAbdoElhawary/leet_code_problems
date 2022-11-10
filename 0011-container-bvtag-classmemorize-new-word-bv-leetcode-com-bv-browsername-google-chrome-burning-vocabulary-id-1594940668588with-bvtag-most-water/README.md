@@ -1,4 +1,6 @@
-<h2><a href="https://leetcode.com/problems/container-with-most-water/">11. Container <bvtag class="memorize_new_word bv_leetcode_com bv_browserName_google_chrome  burning_vocabulary  _id_1594940668588">With</bvtag> Most Water</a></h2><h3>Medium</h3><hr><div><p>You are given an integer array <code>height</code> of length <code>n</code>. There are <code>n</code> vertical lines drawn such that the two endpoints of the <code>i<sup>th</sup></code> line are <code>(i, 0)</code> and <code>(i, height[i])</code>.</p>
+<h2><a href="https://leetcode.com/problems/container-with-most-water/">11. Container <bvtag class="memorize_new_word bv_leetcode_com bv_browserName_google_chrome  burning_vocabulary  _id_1594940668588">With</bvtag> Most Water</a></h2><h2><a href="https://leetcode.com/submissions/detail/840273707/">Submission Detail</a></h2><h3>Medium</h3><hr><div><p>
+
+You are given an integer array <code>height</code> of length <code>n</code>. There are <code>n</code> vertical lines drawn such that the two endpoints of the <code>i<sup>th</sup></code> line are <code>(i, 0)</code> and <code>(i, height[i])</code>.</p>
 
 <p>Find two lines that together <bvtag class="memorize_new_word bv_leetcode_com bv_browserName_google_chrome  burning_vocabulary  _id_1594940668588">with</bvtag> the x-axis form a container, such that the container contains the most water.</p>
 
