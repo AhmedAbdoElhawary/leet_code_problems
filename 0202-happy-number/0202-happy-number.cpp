@@ -11,7 +11,7 @@ public:
                 num+=s*s;
                 temp/=10;
             }
-            if(num!=0) temp=num;
+            temp=num;
             if(temp == 1){
                 result= true;
                 break;
