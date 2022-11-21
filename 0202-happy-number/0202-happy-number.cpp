@@ -1,9 +1,8 @@
 class Solution {
 public:
     bool isHappy(int n) {
-        if(n==1111111) return true;
+        unordered_set<int> set;
         int temp=n;
-        bool result=false;
         while(true){
             int num=0;
             while(temp!=0){
@@ -12,15 +11,10 @@ public:
                 temp/=10;
             }
             temp=num;
-            if(temp == 1){
-                result= true;
-                break;
-            }
-            if(temp < 10 && temp!=1){
-                result= false;
-                break;
-            }
+            if(temp == 1) return true;
+            if(set.find(temp)!=set.end()) return false;
+            set.insert(temp);
         }
-        return result;
+        return false;
     }
 };
