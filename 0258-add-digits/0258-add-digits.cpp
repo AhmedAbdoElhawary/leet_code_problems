@@ -1,16 +1,8 @@
 class Solution {
 public:
-    int addDigits(int n) {
-        int temp=n;
-        while(temp > 9){
-            int num=0;
-            while(temp!=0){
-                int s=temp%10;
-                num+=s;
-                temp/=10;
-            }
-            temp=num;
-        }
-        return temp;
+    int addDigits(int num) {
+        if(num==0) return 0;
+        if(num%9==0) return 9;
+        return num % 9;
     }
 };
