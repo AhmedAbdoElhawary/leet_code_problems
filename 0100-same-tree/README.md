@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/same-tree/">100. Same Tree</a></h2><h3>Easy</h3><hr><div><p class="bv-p-translate">Given the roots of two binary trees <code>p</code> and <code>q</code>, write a function to check if they are the same or not.<bv-p-translate-btn class="bv-p-translate-btn" title="Burning Vocabulary translation" style="display: none;">↳</bv-p-translate-btn></p>
+<h2><a href="https://leetcode.com/problems/same-tree/">100. Same Tree</a></h2><h3>Easy</h3><hr><div><p>Given the roots of two binary trees <code>p</code> and <code>q</code>, write a function to check if they are the same or not.</p>
 
 <p>Two binary trees are considered the same if they are structurally identical, and the nodes have the same value.</p>
 
