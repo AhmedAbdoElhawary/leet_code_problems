@@ -24,7 +24,7 @@ class Solution {
             if(count>current.$1){
                 target.$1[j]=count;
                 target.$2[j]=value;
-
+                if(current.$1 == 0) break;
                 count=current.$1;
                 value=current.$2;
             }
