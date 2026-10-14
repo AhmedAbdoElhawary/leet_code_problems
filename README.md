@@ -12,6 +12,7 @@
 | [0169-majority-element](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0560-subarray-sum-equals-k) |
@@ -86,4 +87,5 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
