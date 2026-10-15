@@ -9,6 +9,7 @@
 | [0049-group-anagrams](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0238-product-of-array-except-self) |
@@ -87,5 +88,10 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0283-move-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
