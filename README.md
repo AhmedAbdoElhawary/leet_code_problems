@@ -20,6 +20,7 @@
 | [0303-range-sum-query-immutable](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0560-subarray-sum-equals-k) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/2016-maximum-difference-between-increasing-elements) |
 ## Hash Table
 |  |
 | ------- |
