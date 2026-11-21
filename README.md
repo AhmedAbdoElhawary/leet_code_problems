@@ -10,6 +10,7 @@
 | [0049-group-anagrams](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0169-majority-element) |
@@ -111,4 +112,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
