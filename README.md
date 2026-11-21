@@ -21,6 +21,7 @@
 | [0347-top-k-frequent-elements](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0560-subarray-sum-equals-k) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0011-container-with-most-water) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Quicksort
 |  |
 | ------- |
