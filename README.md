@@ -14,6 +14,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0283-move-zeroes) |
@@ -56,6 +57,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0560-subarray-sum-equals-k) |
@@ -102,6 +104,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0209-minimum-size-subarray-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -119,4 +122,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
