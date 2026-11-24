@@ -21,6 +21,7 @@
 | [0303-range-sum-query-immutable](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0904-fruit-into-baskets) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Hash Table
@@ -34,6 +35,7 @@
 | [0242-valid-anagram](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0904-fruit-into-baskets) |
 ## Sorting
 |  |
 | ------- |
@@ -126,4 +128,5 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/AhmedAbdoElhawary/leet_code_problems/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
